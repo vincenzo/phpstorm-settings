@@ -1,0 +1,39 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;" />
+    <extensionMap>
+      <mapping ext="example" type="Bash" />
+      <mapping ext="make" type="Ini" />
+      <mapping ext="info" type="Ini" />
+      <mapping pattern=".md" type="Markdown" />
+      <removed_mapping ext="md" type="Markdown" />
+      <mapping pattern="1110FC_0" type="Native" />
+      <mapping pattern="11014B_0" type="Native" />
+      <mapping pattern="style_169898" type="Native" />
+      <mapping ext="md" type="Native" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".og_mailhandler_router.module.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".platformshrc" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore_global" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="release-notes" type="PLAIN_TEXT" />
+      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping ext="buildpath" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="mdown" type="PLAIN_TEXT" />
+      <mapping ext="~1~" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="g99_proxy-test" type="PLAIN_TEXT" />
+      <mapping ext="art" type="XML" />
+    </extensionMap>
+  </component>
+</application>

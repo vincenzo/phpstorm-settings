@@ -1,0 +1,29 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6527be5e-f451-46f7-b49e-a5ff3ae53b37" name="VBOX FrDev" url="http://d7.dev.artetecha.com:8080">
+        <fileTransfer host="localhost" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="debdada3-0eb6-449d-ab8a-ee02263a2377" name="Artetecha" url="http://thewordisgod.org">
+        <fileTransfer host="artetecha.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/wpmu/wp-content/plugins/biblembed" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="195291b0-09e8-4d9d-8a61-fd54364e98e4" name="VBOX SOLAS 2" url="http://fr.local.solas.britishcouncil.net">
+        <fileTransfer host="localhost" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a3911475-b1f0-433a-b374-1d3c95dcde22" name="ACE-theme" url="http://appserver.theme.d7770daa-7730-4815-8294-fc359bbed2fc.drush.in">
+        <fileTransfer host="appserver.theme.d7770daa-7730-4815-8294-fc359bbed2fc.drush.in" port="2222" rootFolder="/srv/bindings/9fcc0ad8586546ed9567ab159612dc23" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
