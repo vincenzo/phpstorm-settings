@@ -7,6 +7,8 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".inputrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
