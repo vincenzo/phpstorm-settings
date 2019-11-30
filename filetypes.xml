@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".envrc" type="Bash" />
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="Smarty" />
       <mapping pattern=".graphcoolrc" type="YAML" />
+      <mapping pattern=".envrc" type="Bash" />
     </extensionMap>
   </component>
 </application>
